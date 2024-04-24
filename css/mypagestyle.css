@@ -1,0 +1,42 @@
+/* Kyler Ogden
+IS 201
+Professor Reese */
+
+body {
+    background-color: rgb(187, 76, 76); /* Example background color */
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+h1 {
+    color: black; /* Font color */
+}
+
+ol ul {
+    color: #555555; /* List color */
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+iframe {
+    display: block;
+    margin: 20px auto;
+}
+
+/* Div styling and stuff */
+.div1, .div2, .div3 {
+    margin: 20px 0;
+    padding: 15px;
+    border: 1px solid #ddd;
+    position: relative;
+    left: 20px;
+}
+
